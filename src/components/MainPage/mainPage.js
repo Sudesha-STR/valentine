@@ -22,7 +22,7 @@ function MainPage() {
   const noPhrases = [
     "No",
     "Reconsider? My dog thinks you should",
-    "Think twice? I have pizza and a Netflix subscription",
+    "Think twice? I will get you pasta, vodka, and soup",
     "Reconsidering? I'm 90% coffee and 10% charm",
     "No? I was going to share my chocolate stash with you!",
     "I promise I won't sing in the shower",
